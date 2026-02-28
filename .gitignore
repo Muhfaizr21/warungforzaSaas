@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+
+# Backend
+backend/backend
+backend/.env
+backend/go.sum
+backend/public/uploads/*
+!backend/public/uploads/.gitkeep
+
+# Frontend
+frontend/node_modules
+frontend/dist
+frontend/.env
+frontend/.env.local
+
+# General
+.env
+node_modules/
+dist/

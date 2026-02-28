@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maiden-seasons-accurate-simulations.trycloudflare.com/sitemap.xml
